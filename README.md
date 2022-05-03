@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @theh0riz0n or Tomasz Okurowski
 - 👀 I’m interested in linux and software 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on making android apps in kotlin
+- 🌱 I’m currently learning flutter
 - 📫 How to reach me on discord bz0n#0471
 
 <!---
